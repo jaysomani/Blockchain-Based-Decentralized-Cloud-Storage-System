@@ -5,8 +5,10 @@ This project aims to build a decentralized cloud storage system that utilizes bl
 Installation
 To run this project locally, follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/decentralized-cloud-storage.git
-Install dependencies: npm install
+Clone this repository: git clone https://github.com/jaysomani/Blockchain-Based-Decentralized-Cloud-Storage-System.git <br>
+Install dependencies: npm install<br>
+Deploy Contract: npx hardhat run scripts/deploy.js --network localhost
+Start It: npx hardhat node
 Start the development server: npm start
 
 Usage
