@@ -3,3 +3,4 @@
 
 <h2>Installation Guide</h2>
 1. Clone this repoitory
+2. Install the dependensies required
