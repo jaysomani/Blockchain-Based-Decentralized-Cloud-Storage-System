@@ -9,3 +9,5 @@
 <br>
 
 <h1>Introduction</h2>
+
+We are trying to create a decentralized cloud storage system 
