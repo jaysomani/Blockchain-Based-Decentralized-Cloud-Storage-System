@@ -12,3 +12,5 @@
 
 We are trying to create a decentralized cloud storage system using blockchain and the pinata server where we are trying to store the photos and the files on the 
 pinata server.
+
+this is what we want to create the decentralized cloud storage system
